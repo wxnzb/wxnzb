@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![wuxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxnzb&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxnzb&layout=compact&theme=tokyonight)
-[![wuxi's github activity graph](https://activity-graph.herokuapp.com/graph?username=wxnzb&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![wuxi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxnzb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
