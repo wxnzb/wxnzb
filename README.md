@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 ![wuxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxnzb&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxnzb&layout=compact&theme=tokyonight)
 [![wuxi's github activity graph](https://activity-graph.herokuapp.com/graph?username=wxnzb&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("hello,linux");"please be happy everyday")](https://git.io/typing-svg)
+[![Typing SVG](https://wxnzb.com/?lines=printf("hello,linux");"please be happy everyday")](https://git.io/typing-svg)
