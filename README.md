@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=&vCenter=&repeat=&random=&width=485&separator=%3C&lines=printf(%22hello+%2Clinux%22);%3CPlease+be+happy+everyday!)](https://git.io/typing-svg)
 - 👋 Hi, I’m @wxnzb
 - 👀 I’m interested in linux...
 - 🌱 I’m currently learning a specialb spirit towards programming...
@@ -13,4 +14,3 @@ You can click the Preview link to take a look at your changes.
 ![wuxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxnzb&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxnzb&layout=compact&theme=tokyonight)
 [![wuxi's github activity graph](https://activity-graph.herokuapp.com/graph?username=wxnzb&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Typing SVG](https://wxnzb.com/?lines=printf("hello,linux");"please be happy everyday")]
