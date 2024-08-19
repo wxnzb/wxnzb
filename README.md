@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=Python&logoColor=white" />
 
 [我的CSDN](https://blog.csdn.net/2301_80105928?spm=1000.2115.3001.5343)
+![](https://raw.githubusercontent.com/wxnzb/wxnzb/output/github-contribution-grid-snake.svg)
 
 [我的leetcode](https://leetcode.cn/u/tian-xian-bao-bao-4h/)
 </p>
