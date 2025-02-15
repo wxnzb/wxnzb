@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=&vCenter=&repeat=&random=&width=485&separator=%3C&lines=printf(%22hello+%2Clinux%22);%3CPlease+be+happy+everyday!)](https://git.io/typing-svg)
--👋👋👋👋🌱🌱🌱🌱💞️💞️💞️💞️📫📫📫📫😄😄😄😄⚡⚡⚡⚡
+- 👋👋👋👋🌱🌱🌱🌱💞️💞️💞️💞️
 - Hi, I’m sweet.wu,I am a computer programming enthusiast who enjoys playing badminton in my spare time. If you would like to contact me, please send a message to my email.
-- Email:
+- Email:sweetwx6@gmail.com
+- 📫📫📫📫😄😄😄😄⚡⚡⚡⚡
 <!---
 wxnzb/wxnzb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
